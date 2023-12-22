@@ -97,13 +97,7 @@
     color:#ffffff;
 }
 
-/*
-.section2{
-    display: flex;
-}
-
-*/
-
+/*Section 2 - 5 League Logos*/
 .image-container {
     display: flex;
     flex-wrap: wrap;
